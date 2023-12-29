@@ -250,5 +250,7 @@ You’ll need log file output if anything goes sideways. This document is also w
 [NVIDIA Bug Report](https://forums.developer.nvidia.com/t/if-you-have-a-problem-please-read-this-first/27131)
 
 
+### Notes
+sudo dpkg -i --force-overwrite /var/cache/apt/archives/nvidia-kernel-common-535_535.129.03-0ubuntu1_amd64.deb
 
 
